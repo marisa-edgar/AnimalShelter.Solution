@@ -18,7 +18,9 @@ namespace AnimalShelter.Models
                   new Animal { AnimalId = 3, Name = "Trash Boat", Species = "Dog", Breed = "Shiba Inu", Age = 2, Gender = "Female" },
                   new Animal { AnimalId = 4, Name = "Rigby", Species = "Cat", Breed = "Spinx", Age = 4, Gender = "Male" },
                   new Animal { AnimalId = 5, Name = "Mordechai", Species = "Dog", Breed = "Greyhound", Age = 3, Gender = "Male" },
-                  new Animal { AnimalId = 6, Name = "Skips", Species = "Cat", Breed = "Manx", Age = 6, Gender = "Male" }
+                  new Animal { AnimalId = 6, Name = "Margret", Species = "Dog", Breed = "Boston Terrier", Age = 2, Gender = "Female" },
+                  new Animal { AnimalId = 7, Name = "Eileen", Species = "Cat", Breed = "Domestic Shorthair", Age = 3, Gender = "Female" },
+                  new Animal { AnimalId = 8, Name = "Skips", Species = "Cat", Breed = "Manx", Age = 6, Gender = "Male" }
               );
         }
 
