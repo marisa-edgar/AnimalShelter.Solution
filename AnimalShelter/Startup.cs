@@ -5,6 +5,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.EntityFrameworkCore;
 using AnimalShelter.Models;
+using Microsoft.AspNetCore.Mvc;
 
 namespace AnimalShelter
 {
